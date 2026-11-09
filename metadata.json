@@ -1,0 +1,8 @@
+{
+  "name": "Trilhas Farroupilha - Passeios de Moto & Trilheiros",
+  "description": "Organizador de passeios de moto e trilheiros aos sábados em Farroupilha/RS, com horários de saída e chegada, lista de participantes com contatos de emergência e rotas propostas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

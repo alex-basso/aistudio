@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "Trilhas Farroupilha - Motos & Trilheiros",
+  "short_name": "Trilhas Far",
+  "description": "Organizador de passeios de moto e trilheiros aos sábados em Farroupilha/RS",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d0f12",
+  "theme_color": "#ea580c",
+  "icons": [
+    {
+      "src": "/src/assets/images/farroupilha_trail_hero_1794264738421.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/src/assets/images/farroupilha_trail_hero_1794264738421.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
